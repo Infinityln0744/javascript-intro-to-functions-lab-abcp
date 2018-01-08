@@ -16,6 +16,5 @@ function sayHiToGrandma(string) {
 }
 function sayHiToGrandma(string) {
   if (string === sting. toUpperCase())
-  return "YES INDEED!";
-}
+  return "YES INDEED!"
 }
